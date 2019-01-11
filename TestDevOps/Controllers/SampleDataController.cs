@@ -10,7 +10,7 @@ namespace TestDevOps.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm11", "Balmy", "Hot", "Sweltering", "Scorching","Risfeng","Nocile"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild222", "Warm11", "Balmy", "Hot", "Sweltering", "Scorching","Risfeng","Nocile"
         };
 
         [HttpGet("[action]")]
